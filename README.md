@@ -1,2 +1,3 @@
-# omsuperg.github.io
-# omsuperg.com
+# Test links
+## http://omsuperg.github.io
+## http://omsuperg.com
